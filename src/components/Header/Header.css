@@ -1,0 +1,18 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#headerCard {
+    padding: 0;
+}
+
+ #headerCard .card .card-image {
+    height: 300px;
+}
+
+ #headerCard .card .card-image img {
+    height: 300px;
+}
+
+
+

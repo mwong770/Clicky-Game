@@ -98,6 +98,8 @@ class Game extends Component {
                                         handleClick={this.handleClick}
                                         color={character.color}
                                         image={character.image}
+                                        // shake when score 0 (aka reset score b/c clicked img twice) but not when start game
+                                        shake={!this.state.score && this.state.topScore}
                                         />
                                     )
                                 )

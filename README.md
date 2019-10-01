@@ -1,6 +1,6 @@
 # Clicky-Game
 
-A card game that challenges your memory as you try to click 12 Pokemon cards, without clicking the same card twice.
+A React card game that challenges your memory as you try to click 12 Pokemon cards, without clicking the same card twice.
 
 [Check Out Clicky-Game](https://mwong770.github.io/Clicky-Game/)
 
